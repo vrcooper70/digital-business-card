@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter;
+  background-color:#23252C;
+
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #11222A;
+  
+} 
+
+.name {
+
+left: 186px;
+top: 382px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+
+.title {
+
+color: #F3BF99;
+
+width: 178.06px;
+height: 14.19px;
+left: 186px;
+top: 414px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12.8px;
+line-height: 15px;
+text-align: center;
+
+}
+
+.website {
+width: 228px;
+height: 16px;
+left: 161px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+text-align: center;
+
+color: #F5F5F5;
+}
+
+
+button.email {
+  margin-right: 17px;
+}
+
+.about-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1A1B21;
+}
+
+.interests-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1A1B21;
+}
+
+.footer-section {
+height: 64px;
+left: 116px;
+top: 760px;
+background-color: #161619;
+  
+}
+
+.sub-header-about {
+  color: #F5F5F5;
+
+  width: 242.71px;
+height: 21px;
+left: 152px;
+top: 531px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+}
+
+.sub-header-interests {
+color: #F5F5F5;
+
+margin-top: 100px;
+width: 242.71px;
+height: 21px;
+left: 152px;
+top: 645px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+}
+
+p.about {
+
+  color: #DCDCDC;
+
+width: 247px;
+height: 61px;
+left: 152px;
+top: 557px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+}
+
+p.interests {
+
+  color: #DCDCDC;
+
+width: 247px;
+height: 61px;
+left: 152px;
+top: 671px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+}
+
+.container {
+background-color: #1A1B21;
+
+}
+
+.twitter-icon {
+ margin-top: 19px;
+ margin-left: 40%;
+}
+
+.facebook-icon {
+  margin-top: 19px;
+  margin-right: 20px;
+}
+
+.instagram-icon {
+  margin-top: 19px;
+  margin-right: 20px;
+}
+
+.github-icon {
+  margin-top: 19px;
+  margin-right: 72px;
+}
