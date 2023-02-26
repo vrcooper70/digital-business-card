@@ -11,5 +11,6 @@ export default function About() {
                 work abroad where I can also continue developing my human languages such as French and Spanish.
             </p>
         </div>
+       
     )
 }
